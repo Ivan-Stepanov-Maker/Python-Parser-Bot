@@ -15,7 +15,7 @@
 - 1.Установите новейшую версию python на [официальльном сайте](https://www.python.org/downloads/).
 - 2.Скачайте папку и откройте её в любой IDE(VS code/PyCharm).
 - 3.Откройте терминал и введите: *pip install aiogram, requests, BeautifulSoup4*(Если pip не добавлен в bin, тогда введите: *Python -m pip install aiogram, requests, BeautifulSoup4.*
-  4.Напишите в терминале: *myenv\Scripts\Activate*.
+- 4.Напишите в терминале: *myenv\Scripts\Activate*.
 
 #### 2.Подключения бота и запуск
 
